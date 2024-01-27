@@ -1,0 +1,98 @@
+body{
+    color:aliceblue;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.page{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 10px;
+}
+
+nav h1{
+    font-size: 50px;
+}
+nav p{
+    font-size: 30px;
+}
+.movesection{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.movesection p{
+    font-size: 20px;
+}
+.move{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.move img{
+    width: 250px;
+    transition: width 1s;
+}
+.move img:hover{
+    width: 300px;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    padding:15px 25px;
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+
+}
+.result{
+    padding-top: 50px;
+    margin-bottom:150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    line-height: 10px
+}
+.modiimg img{
+    width:500px;
+}
+.scorehead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+.score{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.score h1{
+    font-size: 50px;
+    justify-content: center;
+}
+.score p{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    padding: 20px;
+}
