@@ -1,10 +1,9 @@
 # Rock Paper Scissors with Narendra Modi
+This is a fun twist to the classic Rock Paper Scissors game where your opponent is none other than Mr. Narendra Modi. Please note that this game is created for entertainment purposes only, and it is not intended to hurt anyone's feelings.
 
 ![Screenshot 2024-01-27 230046](https://github.com/Srivishag/rockpaperscissor/assets/91311329/0ef9497d-61f4-448a-8322-acaa3b6eaadf)
 
 ![Screenshot 2024-01-27 230610](https://github.com/Srivishag/rockpaperscissor/assets/91311329/8237b040-2b30-43d1-b1d8-e8bfcaf55c17)
-
-This is a fun twist to the classic Rock Paper Scissors game where your opponent is none other than Mr. Narendra Modi. Please note that this game is created for entertainment purposes only, and it is not intended to hurt anyone's feelings.
 
 ## How to Play
 
